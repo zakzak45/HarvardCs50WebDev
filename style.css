@@ -1,0 +1,45 @@
+.form{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 500px;
+border-radius: 20px;
+padding: 10px;
+}
+.form input[type='text']{
+    padding:10px;
+    width:50%;
+    border-radius: 10px;
+    box-sizing: border-box;
+
+
+}
+
+.form input[type='submit'] {
+    padding: 10px;
+    margin:5px;
+    border-radius: 4px;
+    position: relative;
+    top: 8em;
+    right:30em;
+
+}
+ 
+
+form button{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 4px;
+    position: relative;
+    top: 8em;
+    right: 30em;
+}
+
+
+form img{
+    width:20%;
+    height: 20%;
+    position: relative;
+    bottom: 8em;
+   left: 26em;
+}
