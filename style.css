@@ -21,7 +21,7 @@ padding: 10px;
     border-radius: 4px;
     position: relative;
     top: 8em;
-    right:30em;
+    right:33em;
 
 }
  
@@ -32,7 +32,7 @@ form button{
     border-radius: 4px;
     position: relative;
     top: 8em;
-    right: 30em;
+    right: 32em;
 }
 
 
@@ -41,5 +41,21 @@ form img{
     height: 20%;
     position: relative;
     bottom: 8em;
-   left: 26em;
+    left: 27em;
+}
+
+ .nav{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    position: relative;
+    left:30rem;
+
+
+
+}
+
+.nav p{
+    margin:10px;
 }
